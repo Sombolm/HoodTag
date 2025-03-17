@@ -1,5 +1,5 @@
 # HoodTag
-
+# Authors: Miłosz Sobol, Adam Bednarek
 ## Overview
 HoodTag is an interactive laser tag game designed to bring excitement to desk-bound evenings. The system consists of a laser gun powered by a Raspberry Pi Pico W and a target board with light-sensitive elements. These components communicate via Wi-Fi to track hits and manage the gameplay.
 <p align="center">
